@@ -1,7 +1,7 @@
 ![My Name Is Jake](/header.png "Banner")
 # Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Jake Adler and I'm a 17 year old developer from Toronto. I'm an activator at [he Knowledge Society](https://tks.world), and have built 2 previous startups. I'm currently building anything I deem "cool sh*t", which is currently Brain Computer Interface apps. 
+My name is Jake Adler and I'm a 17 year old developer from Toronto. I'm an activator at [The Knowledge Society](https://tks.world), and have built 2 previous startups. I'm currently building anything I deem "cool sh*t", which is currently Brain Computer Interface apps. 
 
 ![http://i.imgur.com/wWzX9uB.png](http://i.imgur.com/wWzX9uB.png)
 
@@ -21,25 +21,25 @@ You can also find my personal website [here](www.jakeradler.com) which has a det
 
 ![https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=879fe8](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=879fe8)
 
-[https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=879fe8](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=879fe8)
+![https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=879fe8](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=879fe8)
 
-[https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=879fe8](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=879fe8)
+![https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=879fe8](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=879fe8)
 
-[https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=879fe8](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=879fe8)
+![https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=879fe8](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=879fe8)
 
-[https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=879fe8](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=879fe8)
+![https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=879fe8](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=879fe8)
 
-[https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=879fe8](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=879fe8)
+![https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=879fe8](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=879fe8)
 
-[https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=879fe8](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=879fe8)
+![https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=879fe8](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=879fe8)
 
-[https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=879fe8](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=879fe8)
+![https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=879fe8](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=879fe8)
 
-[https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=879fe8](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=879fe8)
+![https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=879fe8](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=879fe8)
 
-[https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=879fe8](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=879fe8)
+![https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=879fe8](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=879fe8)
 
-[https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=879fe8](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=879fe8)
+![https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=879fe8](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=879fe8)
 
 ## 📈 GitHub Stats
 
