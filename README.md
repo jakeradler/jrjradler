@@ -3,7 +3,7 @@
 
 My name is Jake Adler and I'm a 17 year old developer from Toronto. I'm an activator at [The Knowledge Society](https://tks.world), and have built 2 previous startups. I'm currently building anything I deem "cool sh*t", which is currently Brain Computer Interface apps. 
 
-Check out my Twitter here! [http://i.imgur.com/wWzX9uB.png](http://i.imgur.com/wWzX9uB.png), and my Linkedin here ![https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)
+You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## ✍ Writing
 For most of my code on github I have tutorials and walkthrough's explaining the code and how to deploy it on your own system with your own accesible devices. You can check out these tutorials [here on medium](https://adlerrjake.medium.com/). 
