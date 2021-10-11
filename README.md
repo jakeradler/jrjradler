@@ -1,6 +1,5 @@
 ![My Name Is Jake](/header.png "Banner")
-# Hello, folks!
-![https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# Hello, folks! ![https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 My name is Martin Heinz and I’m a software developer/DevOps engineer. I’m from Slovakia, living in Bratislava and currently working at IBM. You can find me on , or on .
 
