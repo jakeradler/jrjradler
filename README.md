@@ -17,8 +17,8 @@ You can also find my personal website [here](http://www.jakeradler.com) which ha
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=879fe8)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=879fe8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React.js&logoColor=white&color=879fe8)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=879fe8)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=879fe8)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=879fe8)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=879fe8)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jrjradler/jrjradler">
