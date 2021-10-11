@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github.com/jrjradler/jrjradler/blob/main/header.png?raw=true
+/header.png
 <!--
 **jrjradler/jrjradler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
